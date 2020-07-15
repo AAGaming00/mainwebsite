@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Hello!
+# Hello.
 
 test
